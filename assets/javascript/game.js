@@ -39,4 +39,7 @@ document.onkeyup = function(event) {
     console.log(victories);
     console.log(losses);
     console.log(lettersUsed)
+
+    // having troubles with reset at the end of the functions, and saved styling to the end, 
+    // 
 }
